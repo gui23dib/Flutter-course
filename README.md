@@ -6,4 +6,5 @@ https://www.youtube.com/watch?v=2NQUjHZZ9t8&list=PLqdwHeoSjEN-9aGd-RxaS_2cyD_AKT
 
 ### Navigating the repository
  - Each branch represents a differente exercise
- - To access the right exercise select the branch on github or access through git with `git checkout "exercise-name"`
+ - To access the right exercise select the branch on github or access through git
+ `git checkout "exercise-name"`
